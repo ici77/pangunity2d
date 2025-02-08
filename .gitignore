@@ -1,0 +1,11 @@
+# Archivos y carpetas que NO queremos subir
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+# Archivos del sistema
+.DS_Store
+Thumbs.db
